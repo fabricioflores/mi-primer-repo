@@ -17,3 +17,7 @@ function divide(a, b) {
 function power(a, b) {
     return a**b;
 }
+
+function round(a) {
+    return Math.round(a);
+}
