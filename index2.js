@@ -9,3 +9,7 @@ function toUpperCase(str) {
 function toLowerCase(str) {
     return str.toLowerCase();
 }
+
+function getFirstCharacter(str) {
+    return str[0];
+}
