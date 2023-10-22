@@ -21,3 +21,7 @@ function power(a, b) {
 function round(a) {
     return Math.round(a);
 }
+
+function roundUp(a) {
+    return Math.ceil(a);
+}
